@@ -72,11 +72,11 @@ II/IV B.Tech · Academic year 2026–2027
 
 | Roll number | Team member |
 | --- | --- |
-| A25126510086 | K. Surya |
-| A25126510102 | P. Leela Seshu |
-| A25126510105 | Teja Ponnada |
-| A25126510113 | R.M. Ksheeraj |
-| A25126510120 | D. Sumanth |
+| A25126510086 | [K. Surya](https://github.com/MOHAN-SRI-SURYA) |
+| A25126510102 | [P. Leela Seshu](https://github.com/pasalaleelaseshu) |
+| A25126510105 | [Teja Ponnada](https://github.com/tejaswaroopponnada-lang) |
+| A25126510113 | [R.M. Ksheeraj](https://github.com/ksheeraj2007) |
+| A25126510120 | [D. Sumanth](https://github.com/Sumanth00-7) |
 
 **Faculty guide:** Dr. B. Meena
 
