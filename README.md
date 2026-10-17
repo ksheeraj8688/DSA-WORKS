@@ -9,6 +9,8 @@ CSE-B DSA class assignments and works — 2026.
 
 ## Mini project
 
-[Undo/Redo Text Editor](https://github.com/ksheeraj8688/undo-redo-text-editor) — A visual editor demonstrating undo and redo using two stacks.
+### [Undo/Redo Text Editor](Mini-Project)
 
-[Live demo](https://undo-redo-text-editor-final.vercel.app/) · [Report](https://github.com/ksheeraj8688/undo-redo-text-editor/blob/main/docs/Project-Report.docx) · [PPT](https://github.com/ksheeraj8688/undo-redo-text-editor/blob/main/docs/Presentation.pptx)
+A DSA mini project that makes editing history visible through two stacks, animated state transitions, and a visual turn history. Includes the project report, presentation, and prototype link.
+
+[Explore the project](Mini-Project) · [Live demo](https://undo-redo-text-editor-final.vercel.app/) · [Report](Mini-Project/Project-Report.docx) · [Presentation](Mini-Project/Presentation.pptx) · [Source code](https://github.com/ksheeraj8688/undo-redo-text-editor)
